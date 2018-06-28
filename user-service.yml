@@ -1,6 +1,6 @@
 ---
 server:
-  port: 0
+  port: 4000
 synerzip:
   user:
     bu: BU-3
